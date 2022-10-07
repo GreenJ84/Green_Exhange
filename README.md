@@ -22,6 +22,11 @@ Green Exchange is a crypto exchange simulation built uzing Java Spring Boot.
 
 ### Photos
 
+<img alt="" src="/projectImages/greenExchange_guest.png" style="width: 40%; height: 40%; align: center;">
+<img alt="" src="/projectImages/greenExchange_registration.png" style="width: 40%; height: 40%;">
+<img alt="" src="/projectImages/greenExchange_registered.png" style="width: 40%; height: 40%;">
+<img alt="" src="/projectImages/greenExchange_exchange.png" style="width: 40%; height: 40%;">
+<img alt="" src="/projectImages/greenExchange_portfolio.png" style="width: 40%; height: 40%;">
 
 ### How to Run locally
 
